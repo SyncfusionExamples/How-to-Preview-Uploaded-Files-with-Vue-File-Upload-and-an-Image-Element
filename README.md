@@ -2,7 +2,7 @@
 
 A quick-start Vue project that shows how to display a preview of uploaded image files in the Syncfusion [Vue File Upload](https://www.syncfusion.com/vue-components/vue-file-upload?utm_source=github&utm_medium=listing&utm_campaign=tutorial-videos-vue-file-upload-preview-uploaded-files-sample) component. This project contains code to customize the file drop area and file list to show the image preview using an image element. It also contains code to create custom upload and remove buttons for handling images.
 
-Watch the video: Coming soon…
+Watch the video: [How to Preview Uploaded Files with Vue File Upload and an Image Element](https://www.syncfusion.com/tutorial-videos/vue/file-upload?title=how-to-preview-uploaded-files-with-vue-file-upload-and-an)
 
 Refer to the following documentation to learn about the Vue File Upload component: https://ej2.syncfusion.com/vue/documentation/uploader/how-to/preview-images-before-uploading 
 
